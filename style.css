@@ -1,0 +1,22 @@
+body{
+  background-color: lightgrey;
+}
+.menu{
+  height: 10vh;
+  background-color: black;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+li{
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+a{
+  color:red;
+  text-decoration: none;
+}
